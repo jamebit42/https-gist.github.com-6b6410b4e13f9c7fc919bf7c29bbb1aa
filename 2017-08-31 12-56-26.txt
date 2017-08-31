@@ -1,0 +1,229 @@
+12:56:26.888: CPU Name: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz
+12:56:26.888: CPU Speed: 3600MHz
+12:56:26.888: Physical Cores: 4, Logical Cores: 8
+12:56:26.888: Physical Memory: 16348MB Total, 10659MB Free
+12:56:26.888: Windows Version: 10.0 Build 15063 (revision: 296; 64-bit)
+12:56:26.888: Running as administrator: false
+12:56:26.888: Aero is Enabled (Aero is always on for windows 8 and above)
+12:56:26.888: Portable mode: false
+12:56:26.902: OBS 20.0.1 (64bit, windows)
+12:56:26.902: ---------------------------------
+12:56:26.902: ---------------------------------
+12:56:26.902: audio settings reset:
+12:56:26.902: 	samples per sec: 44100
+12:56:26.902: 	speakers:        2
+12:56:26.903: ---------------------------------
+12:56:26.903: Initializing D3D11...
+12:56:26.903: Available Video Adapters: 
+12:56:26.904: 	Adapter 1: NVIDIA GeForce GTX 1050 Ti
+12:56:26.904: 	  Dedicated VRAM: 4211277824
+12:56:26.904: 	  Shared VRAM:    4276353024
+12:56:26.904: 	  output 1: pos={0, 0}, size={1920, 1080}, attached=true
+12:56:26.904: 	  output 2: pos={-1920, 0}, size={1920, 1080}, attached=true
+12:56:26.905: Loading up D3D11 on adapter NVIDIA GeForce GTX 1050 Ti (0)
+12:56:26.933: D3D11 loaded successfully, feature level used: 45056
+12:56:27.485: ---------------------------------
+12:56:27.485: video settings reset:
+12:56:27.485: 	base resolution:   1280x720
+12:56:27.485: 	output resolution: 1280x720
+12:56:27.485: 	downscale filter:  Bilinear
+12:56:27.485: 	fps:               60/1
+12:56:27.485: 	format:            NV12
+12:56:27.486: Audio monitoring device:
+12:56:27.486: 	name: Default
+12:56:27.486: 	id: default
+12:56:27.486: ---------------------------------
+12:56:27.487: Required module function 'obs_module_load' in module '../../obs-plugins/64bit/chrome_elf.dll' not found, loading of module failed
+12:56:27.487: Failed to load 'th-TH' text for module: 'coreaudio-encoder.dll'
+12:56:27.487: [CoreAudio encoder]: CoreAudio AAC encoder not installed on the system or couldn't be loaded
+12:56:27.488: Failed to load 'th-TH' text for module: 'enc-amf.dll'
+12:56:27.488: [AMF] Encountered Exception during AMF initialization: Unable to load 'amfrt64.dll', error code 126.
+12:56:27.488: Failed to initialize module 'enc-amf.dll'
+12:56:27.489: Failed to load 'th-TH' text for module: 'frontend-tools.dll'
+12:56:27.493: Required module function 'obs_module_load' in module '../../obs-plugins/64bit/libcef.dll' not found, loading of module failed
+12:56:27.493: Required module function 'obs_module_load' in module '../../obs-plugins/64bit/libEGL.dll' not found, loading of module failed
+12:56:27.494: Required module function 'obs_module_load' in module '../../obs-plugins/64bit/libGLESv2.dll' not found, loading of module failed
+12:56:27.494: Failed to load 'en-US' text for module: 'obs-browser.dll'
+12:56:27.494: [browser_source: 'Version: 1.29.0']
+12:56:27.496: NVENC supported
+12:56:27.497: Failed to load 'th-TH' text for module: 'obs-filters.dll'
+12:56:27.498: Failed to load 'th-TH' text for module: 'obs-qsv11.dll'
+12:56:27.533: Failed to load 'th-TH' text for module: 'obs-text.dll'
+12:56:27.535: Failed to load 'th-TH' text for module: 'obs-transitions.dll'
+12:56:27.535: Failed to load 'th-TH' text for module: 'obs-vst.dll'
+12:56:27.539: Failed to load 'th-TH' text for module: 'vlc-video.dll'
+12:56:27.539: Couldn't find VLC installation, VLC video source disabled
+12:56:27.540: Failed to load 'th-TH' text for module: 'win-decklink.dll'
+12:56:27.542: No blackmagic support
+12:56:27.545: Failed to load 'th-TH' text for module: 'win-mf.dll'
+12:56:27.569: ---------------------------------
+12:56:27.569:   Loaded Modules:
+12:56:27.569:     win-wasapi.dll
+12:56:27.569:     win-mf.dll
+12:56:27.569:     win-dshow.dll
+12:56:27.569:     win-decklink.dll
+12:56:27.569:     win-capture.dll
+12:56:27.569:     vlc-video.dll
+12:56:27.569:     text-freetype2.dll
+12:56:27.569:     rtmp-services.dll
+12:56:27.569:     obs-x264.dll
+12:56:27.569:     obs-vst.dll
+12:56:27.569:     obs-transitions.dll
+12:56:27.569:     obs-text.dll
+12:56:27.569:     obs-qsv11.dll
+12:56:27.569:     obs-outputs.dll
+12:56:27.569:     obs-filters.dll
+12:56:27.569:     obs-ffmpeg.dll
+12:56:27.569:     obs-browser.dll
+12:56:27.569:     image-source.dll
+12:56:27.569:     frontend-tools.dll
+12:56:27.569:     enc-amf.dll
+12:56:27.569:     coreaudio-encoder.dll
+12:56:27.569: ---------------------------------
+12:56:27.569: ==== Startup complete ===============================================
+12:56:27.571: Switched to Preview/Program mode
+12:56:27.571: ------------------------------------------------
+12:56:27.572: All scene data cleared
+12:56:27.572: ------------------------------------------------
+12:56:27.593: WASAPI: Device 'Speakers (Realtek High Definition Audio)' initialized
+12:56:27.594: Failed to open file 'G:/stream/20771884_209935016205509_564859436_o (1).jpg': No such file or directory
+12:56:27.594: gs_image_file_init: Failed to load file 'G:/stream/20771884_209935016205509_564859436_o (1).jpg'
+12:56:27.594: [image_source: 'Image'] failed to load texture 'G:/stream/20771884_209935016205509_564859436_o (1).jpg'
+12:56:27.602: Switched to scene 'Scene'
+12:56:27.606: Failed to open file 'G:/stream/20747846_209935029538841_649788039_o (1).jpg': No such file or directory
+12:56:27.606: gs_image_file_init: Failed to load file 'G:/stream/20747846_209935029538841_649788039_o (1).jpg'
+12:56:27.606: [image_source: '(null)'] failed to load texture 'G:/stream/20747846_209935029538841_649788039_o (1).jpg'
+12:56:27.606: Failed to open file 'G:/stream/20771884_209935016205509_564859436_o (1).jpg': No such file or directory
+12:56:27.606: gs_image_file_init: Failed to load file 'G:/stream/20771884_209935016205509_564859436_o (1).jpg'
+12:56:27.606: [image_source: '(null)'] failed to load texture 'G:/stream/20771884_209935016205509_564859436_o (1).jpg'
+12:56:27.606: ------------------------------------------------
+12:56:27.606: Loaded scenes:
+12:56:27.606: - scene 'Scene':
+12:56:27.606:     - source: 'Display Capture' (monitor_capture)
+12:56:27.606:     - source: 'Image Slide Show' (slideshow)
+12:56:27.606:     - source: 'Image' (image_source)
+12:56:27.606:     - source: 'Window Capture' (window_capture)
+12:56:27.606: ------------------------------------------------
+12:56:27.724: adding 23 milliseconds of audio buffering, total audio buffering is now 23 milliseconds
+12:57:34.320: ---------------------------------
+12:57:34.320: video settings reset:
+12:57:34.320: 	base resolution:   1280x720
+12:57:34.320: 	output resolution: 1920x1080
+12:57:34.320: 	downscale filter:  Bilinear
+12:57:34.320: 	fps:               60/1
+12:57:34.320: 	format:            NV12
+12:57:34.335: Settings changed (outputs, video)
+12:57:34.335: ------------------------------------------------
+12:57:53.939: ---------------------------------
+12:57:53.939: video settings reset:
+12:57:53.939: 	base resolution:   1280x720
+12:57:53.939: 	output resolution: 1920x1080
+12:57:53.939: 	downscale filter:  Bilinear
+12:57:53.939: 	fps:               60/1
+12:57:53.939: 	format:            NV12
+12:57:53.954: Settings changed (advanced)
+12:57:53.954: ------------------------------------------------
+12:57:57.425: ---------------------------------
+12:57:57.425: video settings reset:
+12:57:57.425: 	base resolution:   1280x720
+12:57:57.425: 	output resolution: 1920x1080
+12:57:57.425: 	downscale filter:  Bilinear
+12:57:57.425: 	fps:               60/1
+12:57:57.425: 	format:            NV12
+12:57:57.437: Settings changed (advanced)
+12:57:57.437: ------------------------------------------------
+12:58:30.091: Settings changed (hotkeys)
+12:58:30.091: ------------------------------------------------
+12:58:39.536: ---------------------------------
+12:58:39.536: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+12:58:39.536: [x264 encoder: 'simple_h264_stream'] profile: main
+12:58:39.537: [x264 encoder: 'simple_h264_stream'] settings:
+12:58:39.537: 	rate_control: CBR
+12:58:39.537: 	bitrate:      2000
+12:58:39.537: 	buffer size:  2000
+12:58:39.537: 	crf:          0
+12:58:39.537: 	fps_num:      60
+12:58:39.537: 	fps_den:      1
+12:58:39.537: 	width:        1920
+12:58:39.537: 	height:       1080
+12:58:39.537: 	keyint:       120
+12:58:39.537: 
+12:58:39.552: [Media Foundation AAC: 'simple_aac']: encoder created
+12:58:39.552: 	bitrate: 128
+12:58:39.552: 	channels: 2
+12:58:39.552: 	sample rate: 44100
+12:58:39.552: 	bits-per-sample: 16
+12:58:39.552: 
+12:58:39.552: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://rtmp-api.facebook.com:80/rtmp/...
+12:58:39.565: [rtmp stream: 'simple_stream'] Interface: Intel(R) Ethernet Connection (2) I219-V (ethernet, 100 mbps)
+12:58:40.739: ---------------------------------
+12:58:40.739: [x264 encoder: 'simple_h264_stream'] settings:
+12:58:40.739: 	rate_control: CBR
+12:58:40.739: 	bitrate:      2000
+12:58:40.739: 	buffer size:  2000
+12:58:40.739: 	crf:          0
+12:58:40.739: 	fps_num:      60
+12:58:40.739: 	fps_den:      1
+12:58:40.739: 	width:        1920
+12:58:40.739: 	height:       1080
+12:58:40.739: 	keyint:       120
+12:58:40.739: 
+12:58:40.742: ---------------------------------
+12:58:40.742: [x264 encoder: 'simple_h264_stream'] settings:
+12:58:40.742: 	rate_control: CBR
+12:58:40.742: 	bitrate:      2000
+12:58:40.742: 	buffer size:  2000
+12:58:40.742: 	crf:          0
+12:58:40.742: 	fps_num:      60
+12:58:40.742: 	fps_den:      1
+12:58:40.742: 	width:        1920
+12:58:40.742: 	height:       1080
+12:58:40.742: 	keyint:       120
+12:58:40.742: 
+12:58:40.760: ==== Recording Start ===============================================
+12:58:40.760: [ffmpeg muxer: 'simple_file_output'] Writing file 'C:/Users/admin/Videos/2017-08-31 12-58-40.flv'...
+12:58:41.042: RTMPSockBuf_Fill, remote host closed connection
+12:58:41.042: [rtmp stream: 'simple_stream'] Connection to rtmp://rtmp-api.facebook.com:80/rtmp/ failed: -3
+12:58:41.042: ==== Streaming Stop ================================================
+12:58:43.641: [ffmpeg muxer: 'simple_file_output'] Output of file 'C:/Users/admin/Videos/2017-08-31 12-58-40.flv' stopped
+12:58:43.641: Output 'simple_file_output': stopping
+12:58:43.641: Output 'simple_file_output': Total frames output: 144
+12:58:43.641: Output 'simple_file_output': Total drawn frames: 173
+12:58:43.641: ==== Recording Stop ================================================
+12:58:44.830: ---------------------------------
+12:58:44.830: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+12:58:44.830: [x264 encoder: 'simple_h264_stream'] profile: main
+12:58:44.830: [x264 encoder: 'simple_h264_stream'] settings:
+12:58:44.830: 	rate_control: CBR
+12:58:44.830: 	bitrate:      2000
+12:58:44.830: 	buffer size:  2000
+12:58:44.830: 	crf:          0
+12:58:44.830: 	fps_num:      60
+12:58:44.830: 	fps_den:      1
+12:58:44.830: 	width:        1920
+12:58:44.830: 	height:       1080
+12:58:44.830: 	keyint:       120
+12:58:44.830: 
+12:58:44.847: [Media Foundation AAC: 'simple_aac']: encoder created
+12:58:44.847: 	bitrate: 128
+12:58:44.847: 	channels: 2
+12:58:44.847: 	sample rate: 44100
+12:58:44.847: 	bits-per-sample: 16
+12:58:44.847: 
+12:58:44.860: ==== Recording Start ===============================================
+12:58:44.860: [ffmpeg muxer: 'simple_file_output'] Writing file 'C:/Users/admin/Videos/2017-08-31 12-58-44.flv'...
+12:58:46.523: [ffmpeg muxer: 'simple_file_output'] Output of file 'C:/Users/admin/Videos/2017-08-31 12-58-44.flv' stopped
+12:58:46.523: Output 'simple_file_output': stopping
+12:58:46.523: Output 'simple_file_output': Total frames output: 72
+12:58:46.523: Output 'simple_file_output': Total drawn frames: 100
+12:58:46.523: ==== Recording Stop ================================================
+13:00:03.295: Settings changed (hotkeys)
+13:00:03.295: ------------------------------------------------
+13:26:29.449: Failed to open file 'G:/stream/20771884_209935016205509_564859436_o (1).jpg': No such file or directory
+13:26:29.449: gs_image_file_init: Failed to load file 'G:/stream/20771884_209935016205509_564859436_o (1).jpg'
+13:26:29.449: [image_source: 'Image'] failed to load texture 'G:/stream/20771884_209935016205509_564859436_o (1).jpg'
+13:45:01.834: ==== Shutting down ==================================================
+13:45:01.861: Switched to scene '(null)'
+13:45:01.949: WASAPI: Device 'Speakers (Realtek High Definition Audio)' Terminated
+13:45:01.954: All scene data cleared
+13:45:01.954: ------------------------------------------------
